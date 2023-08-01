@@ -1,6 +1,6 @@
 SOFTENG 281 Project III
 
-A Graph calculator to that checks information about directed graphs such as:
+A Graph calculator that checks information about directed graphs such as:
 - Reflexivity
 - Symmetry
 - Antisymmetry
