@@ -5,6 +5,6 @@ A Graph calculator that checks information about directed graphs such as:
 - Symmetry
 - Antisymmetry
 - Transitivity
-- Equvalence
+- Equivalence
 
 Impliments both iterative and recursive versions of breadth first and depth first searches.
